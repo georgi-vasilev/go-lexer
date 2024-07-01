@@ -1,7 +1,5 @@
-module lexer
+module main
 
-replace lexer/token => ./token
+replace github.com/georgi-vasilev/go-interpreter  => ./repl
 
 go 1.21.6
-
-require lexer/token v0.0.0-00010101000000-000000000000
