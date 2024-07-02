@@ -1,5 +1,3 @@
-module main
-
-replace github.com/georgi-vasilev/go-interpreter  => ./repl
+module go-lexer
 
 go 1.21.6

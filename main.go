@@ -1,10 +1,10 @@
 package main
 
 import (
-	"fmt"
-	"os"
-	"os/user"
-    "github.com/georgi-vasilev/go-interpreter/repl"
+    "fmt"
+    "os"
+    "os/user"
+    "go-lexer/repl"
 )
 
 func main() {

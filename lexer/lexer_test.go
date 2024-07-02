@@ -2,7 +2,7 @@ package lexer
 
 import (
     "testing"
-    "github.com/georgi-vasilev/go-lexer/token"
+    "go-lexer/token"
 )
 
 func TestNextToken(t *testing.T) {
