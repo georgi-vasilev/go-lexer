@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"os/user"
-    "github.com/georgi-vasilev/go-interpreter/repl"
+    "go-lexer/repl"
 )
 
 func main() {

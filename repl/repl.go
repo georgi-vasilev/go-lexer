@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"github.com/georgi-vasilev/go-lexer/lexer"
-    "github.com/georgi-vasilev/go-lexer/token"
+	"go-lexer/lexer"
+    "go-lexer/token"
 )
 const PROMPT = ">> "
 
